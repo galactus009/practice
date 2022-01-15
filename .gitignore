@@ -1,0 +1,3 @@
+#Discard files without extension (executables)
+
+!*.*
